@@ -23,8 +23,32 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+     
+ function list
+
+1. login function you login by using email and password
+2. requesting editing function	
+3. requesting show function	
+4. requesting delete function	
+5. create request function and waiting the feedback.	
+6. confirm function	of the requested issue
+7. signup  function	when you want to have the permission 
+   of getting to the session of logged in.
+8. update function for any new information.
+9. logout function
+	
 
 * ...
-https://docs.google.com/spreadsheets/d/1zJM0dCLiyP7Lst4XFmAV4hhQjiMeJ6VFtbSs_mZ3ZsY/edit?usp=sharing
+             	catalog design	
+https://docs.google.com/spreadsheets/d/1WJEXMJCEopalVz39Ayroz0xsJ7oB8EkPIHAjySL1pxE/edit?usp=sharing
+                	table definition	
+https://docs.google.com/spreadsheets/d/1_yzEPcr0OR1wgAhq7oGvcpoTjR6PrSorTja2X-De5_s/edit?usp=sharing
+                       ERD
+https://docs.google.com/document/d/1usEysMEOQcDGUWr6P1iB2pvwyOw14ITvncxJjhuVRJA/edit?usp=sharing
+                        screen wire frame
+https://docs.google.com/document/d/1LGEGGhHz_qF0ZK9lhDCEAgP9VAnE6WwF-2DNwKeB6Ec/edit?usp=sharing
+                        screen transition diagram
+https://docs.google.com/document/d/1h5LlVJfR5kbCIsrHJ6t5ONw76tR4lrJh-XoYtCm2KYc/edit?usp=sharing
 
-https://docs.google.com/document/d/1lW-AGolNmw82xlk_-qd6r-R-mNPgroNCOI9hhcIY6TM/edit?usp=sharing
+schedule use gem
+  devise
