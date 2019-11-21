@@ -39,15 +39,25 @@ Things you may want to cover:
 	
 
 * ...
-             	catalog design	
+             
+             	catalog design
+
 https://docs.google.com/spreadsheets/d/1WJEXMJCEopalVz39Ayroz0xsJ7oB8EkPIHAjySL1pxE/edit?usp=sharing
-                	table definition	
+                	
+                    table definition
+
 https://docs.google.com/spreadsheets/d/1_yzEPcr0OR1wgAhq7oGvcpoTjR6PrSorTja2X-De5_s/edit?usp=sharing
+                       
                        ERD
+
 https://docs.google.com/document/d/1usEysMEOQcDGUWr6P1iB2pvwyOw14ITvncxJjhuVRJA/edit?usp=sharing
+                       
                         screen wire frame
+
 https://docs.google.com/document/d/1LGEGGhHz_qF0ZK9lhDCEAgP9VAnE6WwF-2DNwKeB6Ec/edit?usp=sharing
+                        
                         screen transition diagram
+
 https://docs.google.com/document/d/1h5LlVJfR5kbCIsrHJ6t5ONw76tR4lrJh-XoYtCm2KYc/edit?usp=sharing
 
 schedule use gem
